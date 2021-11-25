@@ -41,7 +41,12 @@ public class FactGenerator {
         "Esto no bloquea a nadie",
         "Lo estoy viendo con DevOps",
         "A ver quién le cuenta esto a Seguridad",
-        "Esto va al backlog de Infra"
+        "Esto va al backlog de Infra",
+        "Afaik esto es un pete",
+        "La culpa del pete la tiene Kubernetes",
+        "Lo siento pero arreglarlo requería mucho esfuerzo",
+        "¿Lo has hecho con clean?",
+        "Yo nunca habría metido un secreto en Git"
     };
 
     /**
