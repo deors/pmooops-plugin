@@ -7,20 +7,20 @@
         <relativePath />
     </parent>
     <groupId>org.jvnet.hudson.plugins</groupId>
-    <artifactId>chucknorris</artifactId>
+    <artifactId>pmooops</artifactId>
     <version>1.5-SNAPSHOT</version>
-    <name>ChuckNorris Plugin</name>
-    <description>Displays a picture of Chuck Norris (instead of Jenkins the butler) and a random Chuck Norris 'The Programmer' fact on each build page.</description>
+    <name>PMOoops Plugin</name>
+    <description>A fork of Chuck Norris plugin with other pics and phrases.</description>
 
     <properties>
         <java.level>8</java.level>
         <jenkins.version>2.190.1</jenkins.version>
     </properties>
 
-    <url>https://github.com/jenkinsci/chucknorris-plugin</url>
+    <url>https://github.com/deors/pmooops-plugin</url>
     <packaging>hpi</packaging>
 
-    <developers>
+    <!--<developers>
         <developer>
             <id>batmat</id>
             <name>Baptiste Mathus</name>
@@ -32,7 +32,7 @@
             <name>Oleg Nenashev</name>
             <timezone>Europe/Zurich</timezone>
         </developer>
-    </developers>
+    </developers>-->
     <licenses>
         <license>
             <name>MIT License</name>
@@ -103,12 +103,12 @@
         </repository>
     </repositories>
 
-    <scm>
+    <!--<scm>
         <connection>scm:git:git://github.com/jenkinsci/chucknorris-plugin.git</connection>
         <developerConnection>scm:git:git@github.com:jenkinsci/chucknorris-plugin.git</developerConnection>
         <url>https://github.com/jenkinsci/chucknorris-plugin</url>
         <tag>HEAD</tag>
-    </scm>
+    </scm>-->
 
     <pluginRepositories>
         <pluginRepository>

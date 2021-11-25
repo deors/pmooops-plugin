@@ -82,7 +82,7 @@ public final class RoundhouseAction implements RunAction2, LastBuildAction {
      * @return the display name
      */
     public String getDisplayName() {
-        return "Chuck Norris";
+        return "PMOoops";
     }
 
     /**
@@ -98,7 +98,7 @@ public final class RoundhouseAction implements RunAction2, LastBuildAction {
      * @return the URL name
      */
     public String getUrlName() {
-        return "chucknorris";
+        return "pmooops";
     }
 
     /**

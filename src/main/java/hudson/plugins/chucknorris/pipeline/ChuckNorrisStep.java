@@ -22,13 +22,13 @@ public class ChuckNorrisStep extends AbstractStepImpl {
 
 		@Override
 		public String getFunctionName() {
-			return "chuckNorris";
+			return "PMOoops";
 		}
 
 		@Nonnull
 		@Override
 		public String getDisplayName() {
-			return "Submit to Chuck Norris' will";
+			return "Submit to PMO's will";
 		}
 	}
 }
